@@ -13,7 +13,7 @@ export default class Tooltip {
       <p class='tooltip-text'>${this.button.dataset.content}</p>
       </div>
       `,
-      );
+      )
     }
   
     clickPopover() {
